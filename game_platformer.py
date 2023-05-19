@@ -4,9 +4,7 @@
 # 💻 Experiment with the settings, see what you discover!
 ########################################################
 
-
 import arcade
-
 
 # 💻 Try changing these numbers to adjust the scale of the game
 TILE_SCALING = 1
